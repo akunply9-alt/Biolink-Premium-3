@@ -1,13 +1,13 @@
 // Configuration - Easy to edit
 const config = {
   profile: {
-    name: "I'm Claryyya",
-    bio: "jangan lupa makan biar ada eeknya:v"
+    name: "🎀I,𝚖 𝚕𝚎𝚗𝚗𝚢 𝚌𝚑𝚊𝚗🎀",
+    bio: "jangan lupa mam, kalo ga mam ku gigit:v"
   },
   
   slides: [
-    "https://files.catbox.moe/k0q3yp.jpg",
-    "https://files.catbox.moe/m4cqgn.mp4"
+    "https://files.catbox.moe/pull9m.jpg",
+    "https://files.catbox.moe/0jcx52.jpg"
   ],
   /*
         ••JANGAN HAPUS INI••
@@ -40,13 +40,13 @@ Aturan:
     {
       icon: "https://img.icons8.com/color/48/000000/whatsapp--v1.png",
       text: "WhatsApp",
-      actionText: "Order",
-      link: "https://wa.me"
+      actionText: "Chat",
+      link: "https://wa.me/6282143363215"
     },
     {
       icon: "https://img.icons8.com/color/48/000000/youtube-play.png",
       text: "YouTube",
-      actionText: "PLAY",
+      actionText: "Subcribe",
       link: "https://youtube.com"
     },
     {
