@@ -1,7 +1,7 @@
 // Configuration - Easy to edit
 const config = {
   profile: {
-    name: "I'm Clara",
+    name: "I'm Claryyya",
     bio: "jangan lupa makan biar ada eeknya:v"
   },
   
