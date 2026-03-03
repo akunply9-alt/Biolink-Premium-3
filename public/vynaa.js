@@ -47,18 +47,18 @@ Aturan:
       icon: "https://img.icons8.com/color/48/000000/youtube-play.png",
       text: "YouTube",
       actionText: "Subcribe",
-      link: "https://youtube.com"
+      link: "https://youtube.com/@lenyleny-m5n?si=XLd0Epf07KbhE7AJ"
     },
     {
       icon: "https://img.icons8.com/fluency/48/000000/instagram-new.png",
       text: "Instagram",
       actionText: "PLAY",
-      link: "https://instagram.com"
+      link: "https://instagram.com/@cutieelyn2"
     },
     {
       icon: "https://img.icons8.com/ios-filled/50/000000/tiktok.png",
       text: "TikTok",
-      actionText: "PLAY",
+      actionText: "Private wle",
       link: "https://tiktok.com"
     }
   ],
