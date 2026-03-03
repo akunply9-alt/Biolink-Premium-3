@@ -6,7 +6,7 @@ const config = {
   },
   
   slides: [
-    "https://files.catbox.moe/k0q3yp.jpg",
+    "https://c.termai.cc/i160/BnYoUZj.jpg",
     "https://files.catbox.moe/pull9m.jpg"
   ],
 
