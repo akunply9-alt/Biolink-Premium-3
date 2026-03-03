@@ -3,6 +3,7 @@ const config = {
   profile: {
     name: "🎀I,𝚖 𝚕𝚎𝚗𝚗𝚢 𝚌𝚑𝚊𝚗🎀",
     bio: "jangan lupa mam, kalo ga mam ku gigit:v"
+      "pencet apa aja nanti ada musik kluar 🤭"
   },
   
   slides: [
