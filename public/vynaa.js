@@ -6,8 +6,8 @@ const config = {
   },
   
   slides: [
-    "https://files.catbox.moe/pull9m.jpg",
-    "https://files.catbox.moe/0jcx52.jpg"
+    "https://files.catbox.moe/k0q3yp.jpg",
+    "https://files.catbox.moe/pull9m.jpg"
   ],
 
   buttons: [
