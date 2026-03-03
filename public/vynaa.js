@@ -6,8 +6,8 @@ const config = {
   },
   
   slides: [
-    "https://i.top4top.io/p_34681xvzu2.jpg",
-    "https://h.top4top.io/p_34687ah5d1.jpg"
+    "https://files.catbox.moe/k0q3yp.jpg",
+    "https://files.catbox.moe/m4cqgn.mp4"
   ],
   /*
         ••JANGAN HAPUS INI••
