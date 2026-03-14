@@ -15,7 +15,7 @@ const config = {
       icon: "https://img.icons8.com/color/48/000000/whatsapp--v1.png",
       text: "WhatsApp",
       actionText: "Chat",
-      link: "https://wa.me/6282143363215"
+      link: "https://wa.me/6285742458025"
     },
     {
       icon: "https://img.icons8.com/color/48/000000/youtube-play.png",
